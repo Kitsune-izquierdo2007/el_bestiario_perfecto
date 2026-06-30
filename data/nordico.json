@@ -1,0 +1,222 @@
+[
+  {
+    "id": 21,
+    "name": "Fenrir",
+    "image": "/static/images/fenrir.jpg",
+    "category": "Nordica",
+    "mythology": "Nordica",
+    "rarity": "Divina",
+    "habitat": "Tierras Salvajes",
+    "power": "Fuerza apocalíptica",
+    "description": "Lobo gigante destinado a desempeñar un papel crucial durante el Ragnarök."
+  },
+  {
+    "id": 22,
+    "name": "Jormungandr",
+    "image": "/static/images/jormungandr.jpg",
+    "category": "Nordica",
+    "mythology": "Nordica",
+    "rarity": "Divina",
+    "habitat": "Océanos",
+    "power": "Control oceánico",
+    "description": "Serpiente marina colosal que rodea el mundo."
+  },
+  {
+    "id": 23,
+    "name": "Nidhogg",
+    "image": "/static/images/nidhogg.jpg",
+    "category": "Nordica",
+    "mythology": "Nordica",
+    "rarity": "Legendaria",
+    "habitat": "Raíces de Yggdrasil",
+    "power": "Corrupción y destrucción",
+    "description": "Dragón que roe las raíces del árbol cósmico Yggdrasil."
+  },
+  {
+    "id": 24,
+    "name": "Garmr",
+    "image": "/static/images/garmr.jpg",
+    "category": "Nordica",
+    "mythology": "Nordica",
+    "rarity": "Legendaria",
+    "habitat": "Helheim",
+    "power": "Guardián infernal",
+    "description": "Perro monstruoso que vigila el reino de los muertos."
+  },
+  {
+    "id": 25,
+    "name": "Sleipnir",
+    "image": "/static/images/sleipnir.jpg",
+    "category": "Nordica",
+    "mythology": "Nordica",
+    "rarity": "Épica",
+    "habitat": "Cielos",
+    "power": "Velocidad dimensional",
+    "description": "Caballo de ocho patas capaz de viajar entre mundos."
+  },
+  {
+    "id": 26,
+    "name": "Hugin",
+    "image": "/static/images/hugin.jpg",
+    "category": "Nordica",
+    "mythology": "Nordica",
+    "rarity": "Rara",
+    "habitat": "Cielos",
+    "power": "Conocimiento",
+    "description": "Uno de los cuervos de Odín, asociado al pensamiento."
+  },
+  {
+    "id": 27,
+    "name": "Munin",
+    "image": "/static/images/munin.jpg",
+    "category": "Nordica",
+    "mythology": "Nordica",
+    "rarity": "Rara",
+    "habitat": "Cielos",
+    "power": "Memoria perfecta",
+    "description": "Cuervo de Odín que representa la memoria."
+  },
+  {
+    "id": 28,
+    "name": "Ratatoskr",
+    "image": "/static/images/ratatoskr.jpg",
+    "category": "Nordica",
+    "mythology": "Nordica",
+    "rarity": "Poco Común",
+    "habitat": "Yggdrasil",
+    "power": "Mensajería mágica",
+    "description": "Ardilla que corre por el árbol del mundo llevando mensajes."
+  },
+  {
+    "id": 29,
+    "name": "Draugr",
+    "image": "/static/images/draugr.jpg",
+    "category": "Nordica",
+    "mythology": "Nordica",
+    "rarity": "Rara",
+    "habitat": "Tumbas",
+    "power": "Resistencia sobrenatural",
+    "description": "Muerto viviente que protege tesoros enterrados."
+  },
+  {
+    "id": 30,
+    "name": "Troll",
+    "image": "/static/images/troll.jpg",
+    "category": "Nordica",
+    "mythology": "Nordica",
+    "rarity": "Poco Común",
+    "habitat": "Montañas",
+    "power": "Fuerza bruta",
+    "description": "Gigante salvaje asociado a cuevas y montañas."
+  },
+  {
+    "id": 31,
+    "name": "Huldra",
+    "image": "/static/images/huldra.jpg",
+    "category": "Nordica",
+    "mythology": "Nordica",
+    "rarity": "Rara",
+    "habitat": "Bosques",
+    "power": "Encantamiento",
+    "description": "Espíritu del bosque con apariencia humana."
+  },
+  {
+    "id": 32,
+    "name": "Skoll",
+    "image": "/static/images/skoll.jpg",
+    "category": "Nordica",
+    "mythology": "Nordica",
+    "rarity": "Épica",
+    "habitat": "Cielos",
+    "power": "Cazador solar",
+    "description": "Lobo que persigue al Sol a través del firmamento."
+  },
+  {
+    "id": 33,
+    "name": "Hati",
+    "image": "/static/images/hati.jpg",
+    "category": "Nordica",
+    "mythology": "Nordica",
+    "rarity": "Épica",
+    "habitat": "Cielos",
+    "power": "Cazador lunar",
+    "description": "Lobo que persigue a la Luna."
+  },
+  {
+    "id": 34,
+    "name": "Lindworm",
+    "image": "/static/images/lindworm.jpg",
+    "category": "Nordica",
+    "mythology": "Nordica",
+    "rarity": "Épica",
+    "habitat": "Pantanos",
+    "power": "Veneno dracónico",
+    "description": "Dragón serpentino de gran tamaño."
+  },
+  {
+    "id": 35,
+    "name": "Kraken",
+    "image": "/static/images/kraken.jpg",
+    "category": "Nordica",
+    "mythology": "Nordica",
+    "rarity": "Legendaria",
+    "habitat": "Océanos",
+    "power": "Destrucción naval",
+    "description": "Gigantesco monstruo marino capaz de hundir barcos."
+  },
+  {
+    "id": 36,
+    "name": "Hafgufa",
+    "image": "/static/images/hafgufa.jpg",
+    "category": "Nordica",
+    "mythology": "Nordica",
+    "rarity": "Legendaria",
+    "habitat": "Océanos",
+    "power": "Emboscada marina",
+    "description": "Criatura marina tan enorme que parece una isla."
+  },
+  {
+    "id": 37,
+    "name": "Mare",
+    "image": "/static/images/mare.jpg",
+    "category": "Nordica",
+    "mythology": "Nordica",
+    "rarity": "Rara",
+    "habitat": "Sueños",
+    "power": "Pesadillas",
+    "description": "Espíritu que atormenta a las personas mientras duermen."
+  },
+  {
+    "id": 38,
+    "name": "Jotunn",
+    "image": "/static/images/jotunn.jpg",
+    "category": "Nordica",
+    "mythology": "Nordica",
+    "rarity": "Épica",
+    "habitat": "Jotunheim",
+    "power": "Poder elemental",
+    "description": "Gigante ancestral enemigo y aliado ocasional de los dioses."
+  },
+  {
+    "id": 39,
+    "name": "Fossegrim",
+    "image": "/static/images/fossegrim.jpg",
+    "category": "Nordica",
+    "mythology": "Nordica",
+    "rarity": "Poco Común",
+    "habitat": "Ríos y Cascadas",
+    "power": "Música mágica",
+    "description": "Espíritu acuático maestro del violín."
+  },
+  {
+    "id": 40,
+    "name": "Valkiria",
+    "image": "/static/images/valkiria.jpg",
+    "category": "Nordica",
+    "mythology": "Nordica",
+    "rarity": "Legendaria",
+    "habitat": "Valhalla",
+    "power": "Selección de héroes caídos",
+    "description": "Guerrera sobrenatural que guía a los héroes hacia el Valhalla."
+  }
+]

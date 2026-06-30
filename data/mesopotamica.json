@@ -1,0 +1,222 @@
+[
+  {
+    "id": 161,
+    "name": "Tiamat",
+    "image": "/static/images/tiamat.jpg",
+    "category": "Mesopotámica",
+    "mythology": "Mesopotámica",
+    "rarity": "Divina",
+    "habitat": "Océano Primordial",
+    "power": "Caos y creación",
+    "description": "Diosa dragón del océano salado y madre de monstruos."
+  },
+  {
+    "id": 162,
+    "name": "Mushussu",
+    "image": "/static/images/mushussu.jpg",
+    "category": "Mesopotámica",
+    "mythology": "Mesopotámica",
+    "rarity": "Legendaria",
+    "habitat": "Babilonia",
+    "power": "Protección divina",
+    "description": "Dragón sagrado asociado con Marduk."
+  },
+  {
+    "id": 163,
+    "name": "Anzu",
+    "image": "/static/images/anzu.jpg",
+    "category": "Mesopotámica",
+    "mythology": "Mesopotámica",
+    "rarity": "Legendaria",
+    "habitat": "Montañas",
+    "power": "Tormentas",
+    "description": "Ave gigantesca que robó las Tablas del Destino."
+  },
+  {
+    "id": 164,
+    "name": "Humbaba",
+    "image": "/static/images/humbaba.jpg",
+    "category": "Mesopotámica",
+    "mythology": "Mesopotámica",
+    "rarity": "Épica",
+    "habitat": "Bosque de Cedros",
+    "power": "Terror sobrenatural",
+    "description": "Gigante monstruoso guardián del bosque sagrado."
+  },
+  {
+    "id": 165,
+    "name": "Lahmu",
+    "image": "/static/images/lahmu.jpg",
+    "category": "Mesopotámica",
+    "mythology": "Mesopotámica",
+    "rarity": "Legendaria",
+    "habitat": "Aguas Primordiales",
+    "power": "Protección cósmica",
+    "description": "Entidad primordial nacida antes de la creación del mundo."
+  },
+  {
+    "id": 166,
+    "name": "Lahamu",
+    "image": "/static/images/lahamu.jpg",
+    "category": "Mesopotámica",
+    "mythology": "Mesopotámica",
+    "rarity": "Legendaria",
+    "habitat": "Aguas Primordiales",
+    "power": "Poder creador",
+    "description": "Contraparte femenina de Lahmu."
+  },
+  {
+    "id": 167,
+    "name": "Kusarikku",
+    "image": "/static/images/kusarikku.jpg",
+    "category": "Mesopotámica",
+    "mythology": "Mesopotámica",
+    "rarity": "Épica",
+    "habitat": "Templos",
+    "power": "Guardia sagrada",
+    "description": "Hombre toro protector de lugares sagrados."
+  },
+  {
+    "id": 168,
+    "name": "Ugallu",
+    "image": "/static/images/ugallu.jpg",
+    "category": "Mesopotámica",
+    "mythology": "Mesopotámica",
+    "rarity": "Épica",
+    "habitat": "Palacios",
+    "power": "Expulsión del mal",
+    "description": "Demonio protector con cabeza de león."
+  },
+  {
+    "id": 169,
+    "name": "Girtablilu",
+    "image": "/static/images/girtablilu.jpg",
+    "category": "Mesopotámica",
+    "mythology": "Mesopotámica",
+    "rarity": "Legendaria",
+    "habitat": "Puertas del Sol",
+    "power": "Vigilancia eterna",
+    "description": "Hombre escorpión guardián de los límites del mundo."
+  },
+  {
+    "id": 170,
+    "name": "Basmu",
+    "image": "/static/images/basmu.jpg",
+    "category": "Mesopotámica",
+    "mythology": "Mesopotámica",
+    "rarity": "Épica",
+    "habitat": "Desiertos",
+    "power": "Veneno mortal",
+    "description": "Serpiente dragón de gran tamaño."
+  },
+  {
+    "id": 171,
+    "name": "Siris",
+    "image": "/static/images/siris.jpg",
+    "category": "Mesopotámica",
+    "mythology": "Mesopotámica",
+    "rarity": "Rara",
+    "habitat": "Ríos",
+    "power": "Protección acuática",
+    "description": "Ser asociado con corrientes y aguas sagradas."
+  },
+  {
+    "id": 172,
+    "name": "Kulullu",
+    "image": "/static/images/kulullu.jpg",
+    "category": "Mesopotámica",
+    "mythology": "Mesopotámica",
+    "rarity": "Rara",
+    "habitat": "Océanos",
+    "power": "Dominio marino",
+    "description": "Hombre pez protector de las aguas."
+  },
+  {
+    "id": 173,
+    "name": "Apkallu",
+    "image": "/static/images/apkallu.jpg",
+    "category": "Mesopotámica",
+    "mythology": "Mesopotámica",
+    "rarity": "Legendaria",
+    "habitat": "Ciudades antiguas",
+    "power": "Sabiduría divina",
+    "description": "Sabios semidivinos enviados para enseñar a la humanidad."
+  },
+  {
+    "id": 174,
+    "name": "Rabisu",
+    "image": "/static/images/rabisu.jpg",
+    "category": "Mesopotámica",
+    "mythology": "Mesopotámica",
+    "rarity": "Rara",
+    "habitat": "Sombras",
+    "power": "Acecho sobrenatural",
+    "description": "Espíritu maligno que espera oculto para atacar."
+  },
+  {
+    "id": 175,
+    "name": "Gallu",
+    "image": "/static/images/gallu.jpg",
+    "category": "Mesopotámica",
+    "mythology": "Mesopotámica",
+    "rarity": "Épica",
+    "habitat": "Inframundo",
+    "power": "Captura de almas",
+    "description": "Demonios encargados de arrastrar a los vivos al inframundo."
+  },
+  {
+    "id": 176,
+    "name": "Edimmu",
+    "image": "/static/images/edimmu.jpg",
+    "category": "Mesopotámica",
+    "mythology": "Mesopotámica",
+    "rarity": "Rara",
+    "habitat": "Ruinas",
+    "power": "Maldiciones",
+    "description": "Fantasma de alguien que no recibió los ritos funerarios adecuados."
+  },
+  {
+    "id": 177,
+    "name": "Lamassu",
+    "image": "/static/images/lamassu.jpg",
+    "category": "Mesopotámica",
+    "mythology": "Mesopotámica",
+    "rarity": "Legendaria",
+    "habitat": "Palacios y ciudades",
+    "power": "Protección real",
+    "description": "Toro o león alado con cabeza humana."
+  },
+  {
+    "id": 178,
+    "name": "León Alado Asirio",
+    "image": "/static/images/leon_alado_asirio.jpg",
+    "category": "Mesopotámica",
+    "mythology": "Mesopotámica",
+    "rarity": "Épica",
+    "habitat": "Palacios",
+    "power": "Guardia sagrada",
+    "description": "León alado utilizado como símbolo de poder imperial."
+  },
+  {
+    "id": 179,
+    "name": "Toro Celestial",
+    "image": "/static/images/toro_celestial.jpg",
+    "category": "Mesopotámica",
+    "mythology": "Mesopotámica",
+    "rarity": "Legendaria",
+    "habitat": "Cielos",
+    "power": "Destrucción divina",
+    "description": "Bestia enviada contra Gilgamesh por la diosa Ishtar."
+  },
+  {
+    "id": 180,
+    "name": "Serpiente del Abzu",
+    "image": "/static/images/serpiente_abzu.jpg",
+    "category": "Mesopotámica",
+    "mythology": "Mesopotámica",
+    "rarity": "Épica",
+    "habitat": "Abzu",
+    "power": "Magia primordial",
+    "description": "Serpiente ancestral nacida de las aguas profundas."
+  }
+]

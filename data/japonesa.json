@@ -1,0 +1,222 @@
+[
+  {
+    "id": 41,
+    "name": "Kitsune",
+    "image": "/static/images/kitsune.jpg",
+    "category": "Japonesa",
+    "mythology": "Japonesa",
+    "rarity": "Legendaria",
+    "habitat": "Bosques",
+    "power": "Cambio de forma",
+    "description": "Zorro sobrenatural capaz de adoptar forma humana."
+  },
+  {
+    "id": 42,
+    "name": "Tengu",
+    "image": "/static/images/tengu.jpg",
+    "category": "Japonesa",
+    "mythology": "Japonesa",
+    "rarity": "Épica",
+    "habitat": "Montañas",
+    "power": "Maestría marcial",
+    "description": "Espíritu alado conocido por su habilidad con la espada."
+  },
+  {
+    "id": 43,
+    "name": "Kappa",
+    "image": "/static/images/kappa.jpg",
+    "category": "Japonesa",
+    "mythology": "Japonesa",
+    "rarity": "Rara",
+    "habitat": "Ríos",
+    "power": "Control acuático",
+    "description": "Criatura anfibia traviesa que habita cerca del agua."
+  },
+  {
+    "id": 44,
+    "name": "Oni",
+    "image": "/static/images/oni.jpg",
+    "category": "Japonesa",
+    "mythology": "Japonesa",
+    "rarity": "Épica",
+    "habitat": "Montañas y Cuevas",
+    "power": "Fuerza demoníaca",
+    "description": "Gigante demoníaco armado con una enorme maza."
+  },
+  {
+    "id": 45,
+    "name": "Jorogumo",
+    "image": "/static/images/jorogumo.jpg",
+    "category": "Japonesa",
+    "mythology": "Japonesa",
+    "rarity": "Rara",
+    "habitat": "Bosques",
+    "power": "Seducción sobrenatural",
+    "description": "Araña que puede transformarse en una mujer hermosa."
+  },
+  {
+    "id": 46,
+    "name": "Bakeneko",
+    "image": "/static/images/bakeneko.jpg",
+    "category": "Japonesa",
+    "mythology": "Japonesa",
+    "rarity": "Poco Común",
+    "habitat": "Aldeas",
+    "power": "Transformación felina",
+    "description": "Gato sobrenatural capaz de adquirir poderes mágicos."
+  },
+  {
+    "id": 47,
+    "name": "Nekomata",
+    "image": "/static/images/nekomata.jpg",
+    "category": "Japonesa",
+    "mythology": "Japonesa",
+    "rarity": "Rara",
+    "habitat": "Montañas",
+    "power": "Necromancia",
+    "description": "Gato de dos colas con poderes espirituales."
+  },
+  {
+    "id": 48,
+    "name": "Nurarihyon",
+    "image": "/static/images/nurarihyon.jpg",
+    "category": "Japonesa",
+    "mythology": "Japonesa",
+    "rarity": "Épica",
+    "habitat": "Ciudades",
+    "power": "Infiltración sobrenatural",
+    "description": "Yokai conocido por entrar en hogares ajenos como si fuera el dueño."
+  },
+  {
+    "id": 49,
+    "name": "Yuki-onna",
+    "image": "/static/images/yuki_onna.jpg",
+    "category": "Japonesa",
+    "mythology": "Japonesa",
+    "rarity": "Épica",
+    "habitat": "Montañas Nevadas",
+    "power": "Control del hielo",
+    "description": "Espíritu femenino asociado a tormentas de nieve."
+  },
+  {
+    "id": 50,
+    "name": "Rokurokubi",
+    "image": "/static/images/rokurokubi.jpg",
+    "category": "Japonesa",
+    "mythology": "Japonesa",
+    "rarity": "Poco Común",
+    "habitat": "Pueblos",
+    "power": "Extensión sobrenatural",
+    "description": "Persona cuyo cuello puede estirarse enormes distancias."
+  },
+  {
+    "id": 51,
+    "name": "Kamaitachi",
+    "image": "/static/images/kamaitachi.jpg",
+    "category": "Japonesa",
+    "mythology": "Japonesa",
+    "rarity": "Rara",
+    "habitat": "Llanuras Ventosas",
+    "power": "Cortes invisibles",
+    "description": "Comadreja sobrenatural asociada con ráfagas de viento."
+  },
+  {
+    "id": 52,
+    "name": "Tsuchigumo",
+    "image": "/static/images/tsuchigumo.jpg",
+    "category": "Japonesa",
+    "mythology": "Japonesa",
+    "rarity": "Épica",
+    "habitat": "Cuevas",
+    "power": "Telarañas gigantes",
+    "description": "Araña monstruosa capaz de capturar guerreros."
+  },
+  {
+    "id": 53,
+    "name": "Nue",
+    "image": "/static/images/nue.jpg",
+    "category": "Japonesa",
+    "mythology": "Japonesa",
+    "rarity": "Legendaria",
+    "habitat": "Bosques Oscuros",
+    "power": "Maldiciones",
+    "description": "Quimera formada por partes de distintos animales."
+  },
+  {
+    "id": 54,
+    "name": "Umibozu",
+    "image": "/static/images/umibozu.jpg",
+    "category": "Japonesa",
+    "mythology": "Japonesa",
+    "rarity": "Legendaria",
+    "habitat": "Océanos",
+    "power": "Tormentas marinas",
+    "description": "Gigante marino que aparece durante tempestades."
+  },
+  {
+    "id": 55,
+    "name": "Karakasa-obake",
+    "image": "/static/images/karakasa_obake.jpg",
+    "category": "Japonesa",
+    "mythology": "Japonesa",
+    "rarity": "Poco Común",
+    "habitat": "Ciudades",
+    "power": "Objeto animado",
+    "description": "Paraguas viviente perteneciente a los tsukumogami."
+  },
+  {
+    "id": 56,
+    "name": "Bakekujira",
+    "image": "/static/images/bakekujira.jpg",
+    "category": "Japonesa",
+    "mythology": "Japonesa",
+    "rarity": "Épica",
+    "habitat": "Océanos",
+    "power": "Maldición marina",
+    "description": "Fantasma de una gigantesca ballena."
+  },
+  {
+    "id": 57,
+    "name": "Gashadokuro",
+    "image": "/static/images/gashadokuro.jpg",
+    "category": "Japonesa",
+    "mythology": "Japonesa",
+    "rarity": "Legendaria",
+    "habitat": "Campos de Batalla",
+    "power": "Fuerza colosal",
+    "description": "Esqueleto gigante formado por los huesos de los muertos."
+  },
+  {
+    "id": 58,
+    "name": "Kodama",
+    "image": "/static/images/kodama.jpg",
+    "category": "Japonesa",
+    "mythology": "Japonesa",
+    "rarity": "Poco Común",
+    "habitat": "Bosques Antiguos",
+    "power": "Protección forestal",
+    "description": "Espíritu que habita en árboles ancestrales."
+  },
+  {
+    "id": 59,
+    "name": "Tanuki",
+    "image": "/static/images/tanuki.jpg",
+    "category": "Japonesa",
+    "mythology": "Japonesa",
+    "rarity": "Poco Común",
+    "habitat": "Bosques",
+    "power": "Ilusiones",
+    "description": "Animal mágico famoso por sus bromas y transformaciones."
+  },
+  {
+    "id": 60,
+    "name": "Inugami",
+    "image": "/static/images/inugami.jpg",
+    "category": "Japonesa",
+    "mythology": "Japonesa",
+    "rarity": "Rara",
+    "habitat": "Santuarios y Hogares",
+    "power": "Posesión espiritual",
+    "description": "Espíritu canino utilizado en antiguas prácticas mágicas."
+  }
+]

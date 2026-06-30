@@ -1,0 +1,222 @@
+[
+  {
+    "id": 61,
+    "name": "Ammit",
+    "image": "/static/images/ammit.jpg",
+    "category": "Egipcia",
+    "mythology": "Egipcia",
+    "rarity": "Legendaria",
+    "habitat": "Duat",
+    "power": "Devorar almas",
+    "description": "Monstruo con partes de león, hipopótamo y cocodrilo que consume las almas impuras."
+  },
+  {
+    "id": 62,
+    "name": "Apep",
+    "image": "/static/images/apep.jpg",
+    "category": "Egipcia",
+    "mythology": "Egipcia",
+    "rarity": "Divina",
+    "habitat": "Inframundo",
+    "power": "Caos primordial",
+    "description": "Gigantesca serpiente enemiga del dios Ra."
+  },
+  {
+    "id": 63,
+    "name": "Bennu",
+    "image": "/static/images/bennu.jpg",
+    "category": "Egipcia",
+    "mythology": "Egipcia",
+    "rarity": "Legendaria",
+    "habitat": "Templos Solares",
+    "power": "Renacimiento",
+    "description": "Ave sagrada relacionada con la creación y la renovación."
+  },
+  {
+    "id": 64,
+    "name": "Esfinge Egipcia",
+    "image": "/static/images/esfinge_egipcia.jpg",
+    "category": "Egipcia",
+    "mythology": "Egipcia",
+    "rarity": "Legendaria",
+    "habitat": "Desiertos",
+    "power": "Protección sagrada",
+    "description": "Criatura con cuerpo de león y cabeza humana asociada a los faraones."
+  },
+  {
+    "id": 65,
+    "name": "Serpopardo",
+    "image": "/static/images/serpopardo.jpg",
+    "category": "Egipcia",
+    "mythology": "Egipcia",
+    "rarity": "Épica",
+    "habitat": "Desiertos",
+    "power": "Fuerza salvaje",
+    "description": "Bestia híbrida con cuerpo felino y cuello de serpiente."
+  },
+  {
+    "id": 66,
+    "name": "Uraeus",
+    "image": "/static/images/uraeus.jpg",
+    "category": "Egipcia",
+    "mythology": "Egipcia",
+    "rarity": "Rara",
+    "habitat": "Palacios",
+    "power": "Fuego divino",
+    "description": "Cobra sagrada símbolo de la autoridad real."
+  },
+  {
+    "id": 67,
+    "name": "Set Animal",
+    "image": "/static/images/set_animal.jpg",
+    "category": "Egipcia",
+    "mythology": "Egipcia",
+    "rarity": "Épica",
+    "habitat": "Desiertos",
+    "power": "Destrucción y tormentas",
+    "description": "Misteriosa criatura asociada al dios Seth."
+  },
+  {
+    "id": 68,
+    "name": "Abtu",
+    "image": "/static/images/abtu.jpg",
+    "category": "Egipcia",
+    "mythology": "Egipcia",
+    "rarity": "Poco Común",
+    "habitat": "Nilo",
+    "power": "Protección acuática",
+    "description": "Pez sagrado que acompaña la barca solar."
+  },
+  {
+    "id": 69,
+    "name": "Anet",
+    "image": "/static/images/anet.jpg",
+    "category": "Egipcia",
+    "mythology": "Egipcia",
+    "rarity": "Poco Común",
+    "habitat": "Nilo",
+    "power": "Guía espiritual",
+    "description": "Pez mitológico relacionado con los viajes de Ra."
+  },
+  {
+    "id": 70,
+    "name": "Sebau",
+    "image": "/static/images/sebau.jpg",
+    "category": "Egipcia",
+    "mythology": "Egipcia",
+    "rarity": "Épica",
+    "habitat": "Duat",
+    "power": "Oscuridad",
+    "description": "Demonios que sirven a las fuerzas del caos."
+  },
+  {
+    "id": 71,
+    "name": "Mesekhtiu",
+    "image": "/static/images/mesekhtiu.jpg",
+    "category": "Egipcia",
+    "mythology": "Egipcia",
+    "rarity": "Rara",
+    "habitat": "Cielos",
+    "power": "Orientación celestial",
+    "description": "Toro celeste asociado con las constelaciones."
+  },
+  {
+    "id": 72,
+    "name": "Akh",
+    "image": "/static/images/akh.jpg",
+    "category": "Egipcia",
+    "mythology": "Egipcia",
+    "rarity": "Rara",
+    "habitat": "Mundo Espiritual",
+    "power": "Ascensión divina",
+    "description": "Espíritu iluminado que ha alcanzado la vida eterna."
+  },
+  {
+    "id": 73,
+    "name": "Ba",
+    "image": "/static/images/ba.jpg",
+    "category": "Egipcia",
+    "mythology": "Egipcia",
+    "rarity": "Poco Común",
+    "habitat": "Mundo Espiritual",
+    "power": "Viaje entre mundos",
+    "description": "Manifestación espiritual representada como un ave con cabeza humana."
+  },
+  {
+    "id": 74,
+    "name": "Nekhbet",
+    "image": "/static/images/nekhbet.jpg",
+    "category": "Egipcia",
+    "mythology": "Egipcia",
+    "rarity": "Legendaria",
+    "habitat": "Cielos",
+    "power": "Protección real",
+    "description": "Buitre sagrado protector del Alto Egipto."
+  },
+  {
+    "id": 75,
+    "name": "Wadjet",
+    "image": "/static/images/wadjet.jpg",
+    "category": "Egipcia",
+    "mythology": "Egipcia",
+    "rarity": "Legendaria",
+    "habitat": "Delta del Nilo",
+    "power": "Protección divina",
+    "description": "Serpiente sagrada protectora del Bajo Egipto."
+  },
+  {
+    "id": 76,
+    "name": "Heh",
+    "image": "/static/images/heh.jpg",
+    "category": "Egipcia",
+    "mythology": "Egipcia",
+    "rarity": "Épica",
+    "habitat": "Cosmos",
+    "power": "Eternidad",
+    "description": "Entidad asociada al tiempo infinito."
+  },
+  {
+    "id": 77,
+    "name": "Taweret",
+    "image": "/static/images/taweret.jpg",
+    "category": "Egipcia",
+    "mythology": "Egipcia",
+    "rarity": "Rara",
+    "habitat": "Hogares",
+    "power": "Protección maternal",
+    "description": "Diosa con forma híbrida de hipopótamo, león y cocodrilo."
+  },
+  {
+    "id": 78,
+    "name": "Sobek Beast",
+    "image": "/static/images/sobek_beast.jpg",
+    "category": "Egipcia",
+    "mythology": "Egipcia",
+    "rarity": "Épica",
+    "habitat": "Ríos",
+    "power": "Dominio acuático",
+    "description": "Manifestación monstruosa relacionada con el dios cocodrilo Sobek."
+  },
+  {
+    "id": 79,
+    "name": "Demonio de las Puertas",
+    "image": "/static/images/demonio_puertas.jpg",
+    "category": "Egipcia",
+    "mythology": "Egipcia",
+    "rarity": "Rara",
+    "habitat": "Duat",
+    "power": "Guardianía sobrenatural",
+    "description": "Entidad encargada de custodiar los accesos del inframundo."
+  },
+  {
+    "id": 80,
+    "name": "Serpiente Solar",
+    "image": "/static/images/serpiente_solar.jpg",
+    "category": "Egipcia",
+    "mythology": "Egipcia",
+    "rarity": "Épica",
+    "habitat": "Cielos",
+    "power": "Energía solar",
+    "description": "Serpiente sagrada asociada con el viaje diario del Sol."
+  }
+]

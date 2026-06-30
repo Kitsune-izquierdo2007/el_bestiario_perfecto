@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta name="viewport"
+          content="width=device-width, initial-scale=1.0">
+
+    <title>Gran Bestiario Mitológico</title>
+
+    <link rel="stylesheet"
+          href="{{ url_for('static', filename='style.css') }}">
+
+</head>
+
+<body>
+
+<header>
+
+    <h1>📜 Gran Bestiario Mitológico 📜</h1>
+
+    <p>
+        Enciclopedia de criaturas legendarias de todo el mundo
+    </p>
+
+</header>
+
+<div class="container">
+
+    <form action="/search"
+          method="GET"
+          class="search-box">
+
+        <input
+            type="text"
+            name="q"
+            placeholder="Buscar criatura..."
+        >
+
+        <button type="submit">
+            Buscar
+        </button>
+
+    </form>
+
+    <div class="mythology-menu">
+
+        <a href="/mythology/griego">⚡ Griega</a>
+        <a href="/mythology/nordico">🪓 Nórdica</a>
+        <a href="/mythology/japonesa">⛩️ Japonesa</a>
+        <a href="/mythology/egipcia">𓂀 Egipcia</a>
+        <a href="/mythology/china">🐉 China</a>
+        <a href="/mythology/maya">🌿 Maya</a>
+        <a href="/mythology/azteca">☀️ Azteca</a>
+        <a href="/mythology/celta">🍀 Celta</a>
+        <a href="/mythology/mesopotamica">🏺 Mesopotámica</a>
+        <a href="/mythology/hindu">🕉️ Hindú</a>
+
+    </div>
+
+    {% if mythologies %}
+
+        {% for mythology, creatures in mythologies.items() %}
+
+            <h2 class="section-title">
+
+                {{ mythology }}
+
+            </h2>
+
+            <div class="grid">
+
+                {% for creature in creatures %}
+
+                <a href="/creature/{{ creature.id }}"
+                   class="card">
+
+                    <img src="{{ creature.image }}"
+                         alt="{{ creature.name }}">
+
+                    <div class="card-content">
+
+                        <h2>{{ creature.name }}</h2>
+
+                        <p>
+                            <strong>Rareza:</strong>
+                            {{ creature.rarity }}
+                        </p>
+
+                        <p>
+                            <strong>Poder:</strong>
+                            {{ creature.power }}
+                        </p>
+
+                    </div>
+
+                </a>
+
+                {% endfor %}
+
+            </div>
+
+        {% endfor %}
+
+    {% else %}
+
+        <div class="grid">
+
+            {% for creature in creatures %}
+
+            <a href="/creature/{{ creature.id }}"
+               class="card">
+
+                <img src="{{ creature.image }}"
+                     alt="{{ creature.name }}">
+
+                <div class="card-content">
+
+                    <h2>{{ creature.name }}</h2>
+
+                    <p>
+                        <strong>Rareza:</strong>
+                        {{ creature.rarity }}
+                    </p>
+
+                    <p>
+                        <strong>Poder:</strong>
+                        {{ creature.power }}
+                    </p>
+
+                </div>
+
+            </a>
+
+            {% endfor %}
+
+        </div>
+
+    {% endif %}
+
+</div>
+
+<footer>
+
+    Gran Bestiario Mitológico
+
+</footer>
+
+</body>
+
+</html>

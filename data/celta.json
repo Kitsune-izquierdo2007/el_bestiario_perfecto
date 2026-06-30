@@ -1,0 +1,222 @@
+[
+  {
+    "id": 141,
+    "name": "Kelpie",
+    "image": "/static/images/kelpie.jpg",
+    "category": "Celta",
+    "mythology": "Celta",
+    "rarity": "Legendaria",
+    "habitat": "Lagos",
+    "power": "Atracción mortal",
+    "description": "Caballo acuático capaz de atraer viajeros hacia las profundidades."
+  },
+  {
+    "id": 142,
+    "name": "Each Uisge",
+    "image": "/static/images/each_uisge.jpg",
+    "category": "Celta",
+    "mythology": "Celta",
+    "rarity": "Legendaria",
+    "habitat": "Costas y lagos",
+    "power": "Transformación",
+    "description": "Versión aún más peligrosa del Kelpie."
+  },
+  {
+    "id": 143,
+    "name": "Cù Sìth",
+    "image": "/static/images/cu_sith.jpg",
+    "category": "Celta",
+    "mythology": "Celta",
+    "rarity": "Épica",
+    "habitat": "Bosques",
+    "power": "Aullido mortal",
+    "description": "Perro feérico gigante de color verde."
+  },
+  {
+    "id": 144,
+    "name": "Cat Sìth",
+    "image": "/static/images/cat_sith.jpg",
+    "category": "Celta",
+    "mythology": "Celta",
+    "rarity": "Rara",
+    "habitat": "Tierras altas",
+    "power": "Robo de almas",
+    "description": "Gato negro sobrenatural de gran tamaño."
+  },
+  {
+    "id": 145,
+    "name": "Banshee",
+    "image": "/static/images/banshee.jpg",
+    "category": "Celta",
+    "mythology": "Celta",
+    "rarity": "Legendaria",
+    "habitat": "Ruinas",
+    "power": "Presagio de muerte",
+    "description": "Espíritu femenino cuyo llanto anuncia una muerte próxima."
+  },
+  {
+    "id": 146,
+    "name": "Dullahan",
+    "image": "/static/images/dullahan.jpg",
+    "category": "Celta",
+    "mythology": "Celta",
+    "rarity": "Legendaria",
+    "habitat": "Caminos nocturnos",
+    "power": "Anuncio de muerte",
+    "description": "Jinete sin cabeza que cabalga durante la noche."
+  },
+  {
+    "id": 147,
+    "name": "Púca",
+    "image": "/static/images/puca.jpg",
+    "category": "Celta",
+    "mythology": "Celta",
+    "rarity": "Épica",
+    "habitat": "Campos",
+    "power": "Cambio de forma",
+    "description": "Espíritu travieso capaz de adoptar múltiples apariencias."
+  },
+  {
+    "id": 148,
+    "name": "Nuckelavee",
+    "image": "/static/images/nuckelavee.jpg",
+    "category": "Celta",
+    "mythology": "Celta",
+    "rarity": "Legendaria",
+    "habitat": "Costas",
+    "power": "Plagas y enfermedades",
+    "description": "Monstruo sin piel con forma de caballo y jinete fusionados."
+  },
+  {
+    "id": 149,
+    "name": "Selkie",
+    "image": "/static/images/selkie.jpg",
+    "category": "Celta",
+    "mythology": "Celta",
+    "rarity": "Rara",
+    "habitat": "Océanos",
+    "power": "Transformación marina",
+    "description": "Ser que puede cambiar entre foca y humano."
+  },
+  {
+    "id": 150,
+    "name": "Afanc",
+    "image": "/static/images/afanc.jpg",
+    "category": "Celta",
+    "mythology": "Celta",
+    "rarity": "Épica",
+    "habitat": "Lagos",
+    "power": "Inundaciones",
+    "description": "Bestia acuática de enorme tamaño."
+  },
+  {
+    "id": 151,
+    "name": "Oilliphéist",
+    "image": "/static/images/oillipheist.jpg",
+    "category": "Celta",
+    "mythology": "Celta",
+    "rarity": "Legendaria",
+    "habitat": "Ríos y cuevas",
+    "power": "Destrucción masiva",
+    "description": "Dragón o serpiente gigantesca de las leyendas irlandesas."
+  },
+  {
+    "id": 152,
+    "name": "Sluagh",
+    "image": "/static/images/sluagh.jpg",
+    "category": "Celta",
+    "mythology": "Celta",
+    "rarity": "Épica",
+    "habitat": "Cielos nocturnos",
+    "power": "Captura de almas",
+    "description": "Bandada de espíritus malignos errantes."
+  },
+  {
+    "id": 153,
+    "name": "Fear Dearg",
+    "image": "/static/images/fear_dearg.jpg",
+    "category": "Celta",
+    "mythology": "Celta",
+    "rarity": "Rara",
+    "habitat": "Bosques",
+    "power": "Bromas sobrenaturales",
+    "description": "Duende vestido de rojo relacionado con travesuras."
+  },
+  {
+    "id": 154,
+    "name": "Fachan",
+    "image": "/static/images/fachan.jpg",
+    "category": "Celta",
+    "mythology": "Celta",
+    "rarity": "Épica",
+    "habitat": "Montañas",
+    "power": "Fuerza monstruosa",
+    "description": "Gigante con una sola pierna y un solo brazo."
+  },
+  {
+    "id": 155,
+    "name": "Glaistig",
+    "image": "/static/images/glaistig.jpg",
+    "category": "Celta",
+    "mythology": "Celta",
+    "rarity": "Rara",
+    "habitat": "Colinas",
+    "power": "Protección de ganado",
+    "description": "Espíritu femenino con rasgos de cabra."
+  },
+  {
+    "id": 156,
+    "name": "Water Horse",
+    "image": "/static/images/water_horse.jpg",
+    "category": "Celta",
+    "mythology": "Celta",
+    "rarity": "Épica",
+    "habitat": "Lagos",
+    "power": "Atracción sobrenatural",
+    "description": "Caballo acuático presente en diversas leyendas celtas."
+  },
+  {
+    "id": 157,
+    "name": "Carman",
+    "image": "/static/images/carman.jpg",
+    "category": "Celta",
+    "mythology": "Celta",
+    "rarity": "Épica",
+    "habitat": "Tierras malditas",
+    "power": "Corrupción de la naturaleza",
+    "description": "Hechicera monstruosa asociada con la destrucción."
+  },
+  {
+    "id": 158,
+    "name": "Black Dog",
+    "image": "/static/images/black_dog.jpg",
+    "category": "Celta",
+    "mythology": "Celta",
+    "rarity": "Rara",
+    "habitat": "Caminos",
+    "power": "Presagio sobrenatural",
+    "description": "Perro espectral relacionado con la muerte."
+  },
+  {
+    "id": 159,
+    "name": "Dobhar-chú",
+    "image": "/static/images/dobhar_chu.jpg",
+    "category": "Celta",
+    "mythology": "Celta",
+    "rarity": "Legendaria",
+    "habitat": "Ríos",
+    "power": "Ferocidad acuática",
+    "description": "Criatura similar a una nutria gigante monstruosa."
+  },
+  {
+    "id": 160,
+    "name": "Y Fwch Goch",
+    "image": "/static/images/y_fwch_goch.jpg",
+    "category": "Celta",
+    "mythology": "Celta",
+    "rarity": "Rara",
+    "habitat": "Montañas",
+    "power": "Apariciones fantasmales",
+    "description": "Vaca espectral roja del folclore galés."
+  }
+]

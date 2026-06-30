@@ -1,0 +1,222 @@
+[
+  {
+    "id": 121,
+    "name": "Cipactli",
+    "image": "/static/images/cipactli.jpg",
+    "category": "Azteca",
+    "mythology": "Azteca",
+    "rarity": "Divina",
+    "habitat": "Océano Primordial",
+    "power": "Creación del mundo",
+    "description": "Monstruo acuático ancestral del que fue formada la tierra."
+  },
+  {
+    "id": 122,
+    "name": "Ahuizotl",
+    "image": "/static/images/ahuizotl.jpg",
+    "category": "Azteca",
+    "mythology": "Azteca",
+    "rarity": "Legendaria",
+    "habitat": "Ríos y Lagos",
+    "power": "Atracción mortal",
+    "description": "Criatura acuática con manos y cola prensil que arrastra a sus víctimas al agua."
+  },
+  {
+    "id": 123,
+    "name": "Quetzalcóatl",
+    "image": "/static/images/quetzalcoatl.jpg",
+    "category": "Azteca",
+    "mythology": "Azteca",
+    "rarity": "Divina",
+    "habitat": "Cielos",
+    "power": "Sabiduría y viento",
+    "description": "La legendaria serpiente emplumada."
+  },
+  {
+    "id": 124,
+    "name": "Xiuhcóatl",
+    "image": "/static/images/xiuhcoatl.jpg",
+    "category": "Azteca",
+    "mythology": "Azteca",
+    "rarity": "Divina",
+    "habitat": "Cielos",
+    "power": "Fuego celestial",
+    "description": "Serpiente de fuego utilizada como arma divina."
+  },
+  {
+    "id": 125,
+    "name": "Tzitzimitl",
+    "image": "/static/images/tzitzimitl.jpg",
+    "category": "Azteca",
+    "mythology": "Azteca",
+    "rarity": "Legendaria",
+    "habitat": "Firmamento",
+    "power": "Oscuridad cósmica",
+    "description": "Entidad estelar asociada con eclipses y destrucción."
+  },
+  {
+    "id": 126,
+    "name": "Itzpapálotl",
+    "image": "/static/images/itzpapalotl.jpg",
+    "category": "Azteca",
+    "mythology": "Azteca",
+    "rarity": "Legendaria",
+    "habitat": "Tamoanchan",
+    "power": "Magia oscura",
+    "description": "Mariposa de obsidiana y poderosa deidad guerrera."
+  },
+  {
+    "id": 127,
+    "name": "Cihuateteo",
+    "image": "/static/images/cihuateteo.jpg",
+    "category": "Azteca",
+    "mythology": "Azteca",
+    "rarity": "Épica",
+    "habitat": "Cruces de caminos",
+    "power": "Apariciones espectrales",
+    "description": "Espíritus de mujeres fallecidas durante el parto."
+  },
+  {
+    "id": 128,
+    "name": "Nahual Jaguar",
+    "image": "/static/images/nahual_jaguar.jpg",
+    "category": "Azteca",
+    "mythology": "Azteca",
+    "rarity": "Épica",
+    "habitat": "Selvas",
+    "power": "Transformación animal",
+    "description": "Chamán capaz de adoptar forma de jaguar."
+  },
+  {
+    "id": 129,
+    "name": "Nahual Coyote",
+    "image": "/static/images/nahual_coyote.jpg",
+    "category": "Azteca",
+    "mythology": "Azteca",
+    "rarity": "Épica",
+    "habitat": "Bosques",
+    "power": "Cambio de forma",
+    "description": "Entidad relacionada con la magia de los nahuales."
+  },
+  {
+    "id": 130,
+    "name": "Tlahuelpuchi",
+    "image": "/static/images/tlahuelpuchi.jpg",
+    "category": "Azteca",
+    "mythology": "Azteca",
+    "rarity": "Rara",
+    "habitat": "Pueblos",
+    "power": "Vampirismo",
+    "description": "Ser nocturno que se alimenta de energía vital."
+  },
+  {
+    "id": 131,
+    "name": "Xolotl Beast",
+    "image": "/static/images/xolotl_beast.jpg",
+    "category": "Azteca",
+    "mythology": "Azteca",
+    "rarity": "Legendaria",
+    "habitat": "Mictlán",
+    "power": "Guía espiritual",
+    "description": "Manifestación monstruosa vinculada al dios Xólotl."
+  },
+  {
+    "id": 132,
+    "name": "Cuero de Venado",
+    "image": "/static/images/cuero_de_venado.jpg",
+    "category": "Azteca",
+    "mythology": "Azteca",
+    "rarity": "Rara",
+    "habitat": "Bosques",
+    "power": "Engaño sobrenatural",
+    "description": "Entidad cambiante presente en leyendas mesoamericanas."
+  },
+  {
+    "id": 133,
+    "name": "Mazatl Demoníaco",
+    "image": "/static/images/mazatl_demoniaco.jpg",
+    "category": "Azteca",
+    "mythology": "Azteca",
+    "rarity": "Épica",
+    "habitat": "Montañas",
+    "power": "Velocidad sobrenatural",
+    "description": "Venado monstruoso asociado con malos presagios."
+  },
+  {
+    "id": 134,
+    "name": "Serpiente de Obsidiana",
+    "image": "/static/images/serpiente_obsidiana.jpg",
+    "category": "Azteca",
+    "mythology": "Azteca",
+    "rarity": "Épica",
+    "habitat": "Templos",
+    "power": "Cortes mágicos",
+    "description": "Serpiente cubierta de fragmentos de obsidiana."
+  },
+  {
+    "id": 135,
+    "name": "Jaguar Nocturno",
+    "image": "/static/images/jaguar_nocturno.jpg",
+    "category": "Azteca",
+    "mythology": "Azteca",
+    "rarity": "Rara",
+    "habitat": "Selvas",
+    "power": "Sigilo absoluto",
+    "description": "Felino sobrenatural asociado con la noche."
+  },
+  {
+    "id": 136,
+    "name": "Águila Solar",
+    "image": "/static/images/aguila_solar.jpg",
+    "category": "Azteca",
+    "mythology": "Azteca",
+    "rarity": "Legendaria",
+    "habitat": "Cielos",
+    "power": "Luz solar",
+    "description": "Ave sagrada relacionada con el Sol y los guerreros."
+  },
+  {
+    "id": 137,
+    "name": "Monstruo del Mictlán",
+    "image": "/static/images/monstruo_mictlan.jpg",
+    "category": "Azteca",
+    "mythology": "Azteca",
+    "rarity": "Épica",
+    "habitat": "Mictlán",
+    "power": "Terror espiritual",
+    "description": "Entidad guardiana de los caminos del inframundo."
+  },
+  {
+    "id": 138,
+    "name": "Chaneque",
+    "image": "/static/images/chaneque.jpg",
+    "category": "Azteca",
+    "mythology": "Azteca",
+    "rarity": "Poco Común",
+    "habitat": "Bosques",
+    "power": "Travesuras mágicas",
+    "description": "Pequeño espíritu protector de la naturaleza."
+  },
+  {
+    "id": 139,
+    "name": "Tlacanexquimilli",
+    "image": "/static/images/tlacanexquimilli.jpg",
+    "category": "Azteca",
+    "mythology": "Azteca",
+    "rarity": "Rara",
+    "habitat": "Ruinas",
+    "power": "Maldiciones",
+    "description": "Entidad esquelética relacionada con la muerte."
+  },
+  {
+    "id": 140,
+    "name": "Ehecatotontli",
+    "image": "/static/images/ehecatotontli.jpg",
+    "category": "Azteca",
+    "mythology": "Azteca",
+    "rarity": "Rara",
+    "habitat": "Cielos",
+    "power": "Control del viento",
+    "description": "Espíritus menores asociados al dios del viento."
+  }
+]

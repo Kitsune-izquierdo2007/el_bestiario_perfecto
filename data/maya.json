@@ -1,0 +1,222 @@
+[
+  {
+    "id": 101,
+    "name": "Camazotz",
+    "image": "/static/images/camazotz.jpg",
+    "category": "Maya",
+    "mythology": "Maya",
+    "rarity": "Legendaria",
+    "habitat": "Xibalbá",
+    "power": "Oscuridad y muerte",
+    "description": "Murciélago gigante asociado al inframundo maya."
+  },
+  {
+    "id": 102,
+    "name": "Zipacná",
+    "image": "/static/images/zipacna.jpg",
+    "category": "Maya",
+    "mythology": "Maya",
+    "rarity": "Épica",
+    "habitat": "Montañas",
+    "power": "Fuerza colosal",
+    "description": "Gigante capaz de mover montañas con facilidad."
+  },
+  {
+    "id": 103,
+    "name": "Cabrakán",
+    "image": "/static/images/cabrakan.jpg",
+    "category": "Maya",
+    "mythology": "Maya",
+    "rarity": "Épica",
+    "habitat": "Cordilleras",
+    "power": "Terremotos",
+    "description": "Gigante asociado a los movimientos de la tierra."
+  },
+  {
+    "id": 104,
+    "name": "Vucub Caquix",
+    "image": "/static/images/vucub_caquix.jpg",
+    "category": "Maya",
+    "mythology": "Maya",
+    "rarity": "Legendaria",
+    "habitat": "Selvas",
+    "power": "Brillo celestial",
+    "description": "Ave arrogante que pretendía ser el Sol y la Luna."
+  },
+  {
+    "id": 105,
+    "name": "Wuqub Kakix",
+    "image": "/static/images/wuqub_kakix.jpg",
+    "category": "Maya",
+    "mythology": "Maya",
+    "rarity": "Legendaria",
+    "habitat": "Selvas",
+    "power": "Resplandor divino",
+    "description": "Otra transliteración del legendario Vucub Caquix."
+  },
+  {
+    "id": 106,
+    "name": "Xtabay",
+    "image": "/static/images/xtabay.jpg",
+    "category": "Maya",
+    "mythology": "Maya",
+    "rarity": "Rara",
+    "habitat": "Bosques",
+    "power": "Encantamiento",
+    "description": "Espíritu femenino que atrae a los viajeros."
+  },
+  {
+    "id": 107,
+    "name": "Alux",
+    "image": "/static/images/alux.jpg",
+    "category": "Maya",
+    "mythology": "Maya",
+    "rarity": "Poco Común",
+    "habitat": "Campos y Selvas",
+    "power": "Travesuras mágicas",
+    "description": "Pequeño ser protector de tierras y cosechas."
+  },
+  {
+    "id": 108,
+    "name": "Huay Chivo",
+    "image": "/static/images/huay_chivo.jpg",
+    "category": "Maya",
+    "mythology": "Maya",
+    "rarity": "Rara",
+    "habitat": "Bosques",
+    "power": "Transformación",
+    "description": "Brujo capaz de adoptar forma animal."
+  },
+  {
+    "id": 109,
+    "name": "Huay Pek",
+    "image": "/static/images/huay_pek.jpg",
+    "category": "Maya",
+    "mythology": "Maya",
+    "rarity": "Rara",
+    "habitat": "Selvas",
+    "power": "Cambio de forma",
+    "description": "Entidad relacionada con transformaciones caninas."
+  },
+  {
+    "id": 110,
+    "name": "Bacab",
+    "image": "/static/images/bacab.jpg",
+    "category": "Maya",
+    "mythology": "Maya",
+    "rarity": "Legendaria",
+    "habitat": "Los Cuatro Puntos Cardinales",
+    "power": "Sostener el mundo",
+    "description": "Seres encargados de sostener los cielos."
+  },
+    {
+    "id": 111,
+    "name": "Itzam Yeh",
+    "image": "/static/images/itzam_yeh.jpg",
+    "category": "Maya",
+    "mythology": "Maya",
+    "rarity": "Legendaria",
+    "habitat": "Cielos",
+    "power": "Vuelo divino",
+    "description": "Ave celestial asociada a antiguas deidades mayas."
+  },
+  {
+    "id": 112,
+    "name": "Ah Tzul",
+    "image": "/static/images/ah_tzul.jpg",
+    "category": "Maya",
+    "mythology": "Maya",
+    "rarity": "Rara",
+    "habitat": "Montañas",
+    "power": "Protección espiritual",
+    "description": "Perro sobrenatural considerado guardián de los caminos."
+  },
+  {
+    "id": 113,
+    "name": "Ah Buluc Chabtan Beast",
+    "image": "/static/images/ah_buluc_chabtan_beast.jpg",
+    "category": "Maya",
+    "mythology": "Maya",
+    "rarity": "Épica",
+    "habitat": "Campos de Batalla",
+    "power": "Destrucción",
+    "description": "Manifestación monstruosa relacionada con la guerra."
+  },
+  {
+    "id": 114,
+    "name": "Jaguar del Inframundo",
+    "image": "/static/images/jaguar_inframundo.jpg",
+    "category": "Maya",
+    "mythology": "Maya",
+    "rarity": "Legendaria",
+    "habitat": "Xibalbá",
+    "power": "Sigilo sobrenatural",
+    "description": "Felino sagrado asociado a la noche y al inframundo."
+  },
+  {
+    "id": 115,
+    "name": "Serpiente Visionaria",
+    "image": "/static/images/serpiente_visionaria.jpg",
+    "category": "Maya",
+    "mythology": "Maya",
+    "rarity": "Legendaria",
+    "habitat": "Templos",
+    "power": "Profecía",
+    "description": "Entidad espiritual utilizada en rituales visionarios."
+  },
+  {
+    "id": 116,
+    "name": "Venado Celestial",
+    "image": "/static/images/venado_celestial.jpg",
+    "category": "Maya",
+    "mythology": "Maya",
+    "rarity": "Rara",
+    "habitat": "Bosques Sagrados",
+    "power": "Velocidad sobrenatural",
+    "description": "Venado mítico relacionado con los cielos."
+  },
+  {
+    "id": 117,
+    "name": "Cocodrilo Primordial",
+    "image": "/static/images/cocodrilo_primordial.jpg",
+    "category": "Maya",
+    "mythology": "Maya",
+    "rarity": "Legendaria",
+    "habitat": "Océanos Primordiales",
+    "power": "Creación del mundo",
+    "description": "Ser ancestral sobre el cual se formó la tierra."
+  },
+  {
+    "id": 118,
+    "name": "Pájaro Moan",
+    "image": "/static/images/pajaro_moan.jpg",
+    "category": "Maya",
+    "mythology": "Maya",
+    "rarity": "Rara",
+    "habitat": "Selvas",
+    "power": "Presagios",
+    "description": "Ave asociada con mensajes sobrenaturales."
+  },
+  {
+    "id": 119,
+    "name": "Monstruo de la Tierra Maya",
+    "image": "/static/images/monstruo_tierra_maya.jpg",
+    "category": "Maya",
+    "mythology": "Maya",
+    "rarity": "Épica",
+    "habitat": "Profundidades",
+    "power": "Control terrestre",
+    "description": "Representación monstruosa de la tierra viva."
+  },
+  {
+    "id": 120,
+    "name": "Espíritu Cenote",
+    "image": "/static/images/espiritu_cenote.jpg",
+    "category": "Maya",
+    "mythology": "Maya",
+    "rarity": "Rara",
+    "habitat": "Cenotes",
+    "power": "Protección acuática",
+    "description": "Entidad sobrenatural vinculada a los cenotes sagrados."
+  }
+]

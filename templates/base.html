@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <title>Grimorio de Bestias</title>
+
+    <link rel="stylesheet"
+          href="{{ url_for('static', filename='style.css') }}">
+
+</head>
+
+<body>
+
+<div class="book">
+
+<header>
+
+    <h1>📜 Grimorio de Bestias Antiguas 📜</h1>
+
+    <form action="/search">
+
+        <input
+            type="text"
+            name="q"
+            placeholder="Buscar criatura..."
+        >
+
+        <button type="submit">
+            Buscar
+        </button>
+
+    </form>
+
+</header>
+
+<nav>
+
+<a href="/">Inicio</a>
+
+<a href="/mythology/griega">Griega</a>
+
+<a href="/mythology/nordica">Nórdica</a>
+
+<a href="/mythology/japonesa">Japonesa</a>
+
+<a href="/mythology/egipcia">Egipcia</a>
+
+<a href="/mythology/china">China</a>
+
+<a href="/mythology/maya">Maya</a>
+
+<a href="/mythology/azteca">Azteca</a>
+
+<a href="/mythology/celta">Celta</a>
+
+<a href="/mythology/mesopotamica">Mesopotámica</a>
+
+<a href="/mythology/hindu">Hindú</a>
+
+</nav>
+
+{% block content %}
+{% endblock %}
+
+</div>
+
+</body>
+
+</html>
+

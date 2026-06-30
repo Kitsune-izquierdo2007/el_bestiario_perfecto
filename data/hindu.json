@@ -1,0 +1,222 @@
+[
+  {
+    "id": 181,
+    "name": "Garuda",
+    "image": "/static/images/garuda.jpg",
+    "category": "Hindú",
+    "mythology": "Hindú",
+    "rarity": "Divina",
+    "habitat": "Cielos",
+    "power": "Vuelo divino",
+    "description": "Ave gigante y montura del dios Vishnu."
+  },
+  {
+    "id": 182,
+    "name": "Naga",
+    "image": "/static/images/naga.jpg",
+    "category": "Hindú",
+    "mythology": "Hindú",
+    "rarity": "Legendaria",
+    "habitat": "Ríos y cuevas",
+    "power": "Control del agua",
+    "description": "Serpiente divina asociada con la sabiduría y la protección."
+  },
+  {
+    "id": 183,
+    "name": "Makara",
+    "image": "/static/images/makara.jpg",
+    "category": "Hindú",
+    "mythology": "Hindú",
+    "rarity": "Legendaria",
+    "habitat": "Océanos",
+    "power": "Dominio marino",
+    "description": "Criatura acuática híbrida utilizada por varias deidades."
+  },
+  {
+    "id": 184,
+    "name": "Sharabha",
+    "image": "/static/images/sharabha.jpg",
+    "category": "Hindú",
+    "mythology": "Hindú",
+    "rarity": "Divina",
+    "habitat": "Montañas",
+    "power": "Fuerza suprema",
+    "description": "Bestia gigantesca más poderosa que un león o un elefante."
+  },
+  {
+    "id": 185,
+    "name": "Vanara",
+    "image": "/static/images/vanara.jpg",
+    "category": "Hindú",
+    "mythology": "Hindú",
+    "rarity": "Épica",
+    "habitat": "Selvas",
+    "power": "Agilidad sobrenatural",
+    "description": "Raza de seres simiescos guerreros."
+  },
+  {
+    "id": 186,
+    "name": "Rakshasa",
+    "image": "/static/images/rakshasa.jpg",
+    "category": "Hindú",
+    "mythology": "Hindú",
+    "rarity": "Épica",
+    "habitat": "Bosques y ruinas",
+    "power": "Ilusiones y magia",
+    "description": "Demonios capaces de cambiar de forma."
+  },
+  {
+    "id": 187,
+    "name": "Vetala",
+    "image": "/static/images/vetala.jpg",
+    "category": "Hindú",
+    "mythology": "Hindú",
+    "rarity": "Rara",
+    "habitat": "Cementerios",
+    "power": "Posesión espiritual",
+    "description": "Espíritu que habita cadáveres."
+  },
+  {
+    "id": 188,
+    "name": "Gandaberunda",
+    "image": "/static/images/gandaberunda.jpg",
+    "category": "Hindú",
+    "mythology": "Hindú",
+    "rarity": "Legendaria",
+    "habitat": "Cielos",
+    "power": "Destrucción colosal",
+    "description": "Ave bicéfala de fuerza extraordinaria."
+  },
+  {
+    "id": 189,
+    "name": "Kirtimukha",
+    "image": "/static/images/kirtimukha.jpg",
+    "category": "Hindú",
+    "mythology": "Hindú",
+    "rarity": "Épica",
+    "habitat": "Templos",
+    "power": "Protección sagrada",
+    "description": "Rostro monstruoso usado como guardián espiritual."
+  },
+  {
+    "id": 190,
+    "name": "Airavata",
+    "image": "/static/images/airavata.jpg",
+    "category": "Hindú",
+    "mythology": "Hindú",
+    "rarity": "Divina",
+    "habitat": "Cielos",
+    "power": "Tormentas",
+    "description": "Elefante blanco celestial del dios Indra."
+  },
+  {
+    "id": 191,
+    "name": "Kamadhenu",
+    "image": "/static/images/kamadhenu.jpg",
+    "category": "Hindú",
+    "mythology": "Hindú",
+    "rarity": "Legendaria",
+    "habitat": "Praderas celestiales",
+    "power": "Conceder deseos",
+    "description": "Vaca divina capaz de otorgar abundancia."
+  },
+  {
+    "id": 192,
+    "name": "Navagunjara",
+    "image": "/static/images/navagunjara.jpg",
+    "category": "Hindú",
+    "mythology": "Hindú",
+    "rarity": "Legendaria",
+    "habitat": "Bosques sagrados",
+    "power": "Forma híbrida divina",
+    "description": "Criatura compuesta por partes de varios animales."
+  },
+  {
+    "id": 193,
+    "name": "Yali",
+    "image": "/static/images/yali.jpg",
+    "category": "Hindú",
+    "mythology": "Hindú",
+    "rarity": "Épica",
+    "habitat": "Templos",
+    "power": "Fuerza y protección",
+    "description": "Bestia híbrida con rasgos de león, elefante y caballo."
+  },
+  {
+    "id": 194,
+    "name": "Jambavan",
+    "image": "/static/images/jambavan.jpg",
+    "category": "Hindú",
+    "mythology": "Hindú",
+    "rarity": "Épica",
+    "habitat": "Montañas",
+    "power": "Sabiduría ancestral",
+    "description": "Rey de los osos y aliado de héroes legendarios."
+  },
+  {
+    "id": 195,
+    "name": "Uchchaihshravas",
+    "image": "/static/images/uchchaihshravas.jpg",
+    "category": "Hindú",
+    "mythology": "Hindú",
+    "rarity": "Divina",
+    "habitat": "Cielos",
+    "power": "Velocidad celestial",
+    "description": "Caballo blanco nacido del batido del océano de leche."
+  },
+  {
+    "id": 196,
+    "name": "Sarama Beast",
+    "image": "/static/images/sarama_beast.jpg",
+    "category": "Hindú",
+    "mythology": "Hindú",
+    "rarity": "Rara",
+    "habitat": "Llanuras",
+    "power": "Rastreo sobrenatural",
+    "description": "Bestia inspirada en la legendaria perra divina Sarama."
+  },
+  {
+    "id": 197,
+    "name": "Simhika",
+    "image": "/static/images/simhika.jpg",
+    "category": "Hindú",
+    "mythology": "Hindú",
+    "rarity": "Épica",
+    "habitat": "Océanos",
+    "power": "Atrapar sombras",
+    "description": "Demonio capaz de capturar a sus presas por medio de su sombra."
+  },
+  {
+    "id": 198,
+    "name": "Kumbhira",
+    "image": "/static/images/kumbhira.jpg",
+    "category": "Hindú",
+    "mythology": "Hindú",
+    "rarity": "Rara",
+    "habitat": "Ríos",
+    "power": "Fuerza acuática",
+    "description": "Criatura similar a un cocodrilo mitológico."
+  },
+  {
+    "id": 199,
+    "name": "Pishacha",
+    "image": "/static/images/pishacha.jpg",
+    "category": "Hindú",
+    "mythology": "Hindú",
+    "rarity": "Épica",
+    "habitat": "Oscuridad",
+    "power": "Corrupción espiritual",
+    "description": "Demonio asociado con la locura y la corrupción."
+  },
+  {
+    "id": 200,
+    "name": "Asura Primordial",
+    "image": "/static/images/asura_primordial.jpg",
+    "category": "Hindú",
+    "mythology": "Hindú",
+    "rarity": "Divina",
+    "habitat": "Reinos Inferiores",
+    "power": "Poder cósmico",
+    "description": "Representación ancestral de los poderosos Asuras."
+  }
+]

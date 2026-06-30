@@ -1,0 +1,222 @@
+[
+  {
+    "id": 81,
+    "name": "Long",
+    "image": "/static/images/long.jpg",
+    "category": "China",
+    "mythology": "China",
+    "rarity": "Divina",
+    "habitat": "Cielos y Ríos",
+    "power": "Control del clima",
+    "description": "Dragón chino asociado con la lluvia, la sabiduría y la buena fortuna."
+  },
+  {
+    "id": 82,
+    "name": "Fenghuang",
+    "image": "/static/images/fenghuang.jpg",
+    "category": "China",
+    "mythology": "China",
+    "rarity": "Divina",
+    "habitat": "Cielos",
+    "power": "Renacimiento y armonía",
+    "description": "Ave sagrada considerada la reina de todas las aves."
+  },
+  {
+    "id": 83,
+    "name": "Qilin",
+    "image": "/static/images/qilin.jpg",
+    "category": "China",
+    "mythology": "China",
+    "rarity": "Legendaria",
+    "habitat": "Bosques Sagrados",
+    "power": "Bendiciones y prosperidad",
+    "description": "Criatura benevolente que anuncia la llegada de grandes líderes."
+  },
+  {
+    "id": 84,
+    "name": "Taotie",
+    "image": "/static/images/taotie.jpg",
+    "category": "China",
+    "mythology": "China",
+    "rarity": "Épica",
+    "habitat": "Montañas",
+    "power": "Hambre insaciable",
+    "description": "Monstruo legendario conocido por su apetito infinito."
+  },
+  {
+    "id": 85,
+    "name": "Pixiu",
+    "image": "/static/images/pixiu.jpg",
+    "category": "China",
+    "mythology": "China",
+    "rarity": "Legendaria",
+    "habitat": "Palacios Celestiales",
+    "power": "Atracción de riqueza",
+    "description": "Bestia protectora asociada con la fortuna y la abundancia."
+  },
+  {
+    "id": 86,
+    "name": "Bai Ze",
+    "image": "/static/images/bai_ze.jpg",
+    "category": "China",
+    "mythology": "China",
+    "rarity": "Legendaria",
+    "habitat": "Montañas Sagradas",
+    "power": "Conocimiento sobrenatural",
+    "description": "Criatura sabia que conoce todos los espíritus y demonios."
+  },
+  {
+    "id": 87,
+    "name": "Xiezhi",
+    "image": "/static/images/xiezhi.jpg",
+    "category": "China",
+    "mythology": "China",
+    "rarity": "Rara",
+    "habitat": "Templos",
+    "power": "Detectar la injusticia",
+    "description": "Bestia capaz de distinguir la verdad de la mentira."
+  },
+  {
+    "id": 88,
+    "name": "Zhulong",
+    "image": "/static/images/zhulong.jpg",
+    "category": "China",
+    "mythology": "China",
+    "rarity": "Divina",
+    "habitat": "Montañas Cósmicas",
+    "power": "Control del día y la noche",
+    "description": "Dragón antorcha cuyos ojos regulan la luz del mundo."
+  },
+  {
+    "id": 89,
+    "name": "Jiaolong",
+    "image": "/static/images/jiaolong.jpg",
+    "category": "China",
+    "mythology": "China",
+    "rarity": "Épica",
+    "habitat": "Ríos",
+    "power": "Dominio acuático",
+    "description": "Dragón acuático asociado a inundaciones y tormentas."
+  },
+  {
+    "id": 90,
+    "name": "Hundun",
+    "image": "/static/images/hundun.jpg",
+    "category": "China",
+    "mythology": "China",
+    "rarity": "Legendaria",
+    "habitat": "Vacío Primordial",
+    "power": "Caos original",
+    "description": "Entidad que representa el estado caótico anterior a la creación."
+  },
+  {
+    "id": 91,
+    "name": "Peng",
+    "image": "/static/images/peng.jpg",
+    "category": "China",
+    "mythology": "China",
+    "rarity": "Épica",
+    "habitat": "Cielos",
+    "power": "Vuelo colosal",
+    "description": "Ave gigantesca capaz de cubrir enormes distancias."
+  },
+  {
+    "id": 92,
+    "name": "Kun",
+    "image": "/static/images/kun.jpg",
+    "category": "China",
+    "mythology": "China",
+    "rarity": "Épica",
+    "habitat": "Océanos",
+    "power": "Tamaño gigantesco",
+    "description": "Pez colosal que puede transformarse en el ave Peng."
+  },
+  {
+    "id": 93,
+    "name": "Nian",
+    "image": "/static/images/nian.jpg",
+    "category": "China",
+    "mythology": "China",
+    "rarity": "Legendaria",
+    "habitat": "Montañas",
+    "power": "Terror ancestral",
+    "description": "Monstruo asociado con el origen de las celebraciones del Año Nuevo Chino."
+  },
+  {
+    "id": 94,
+    "name": "Tiangou",
+    "image": "/static/images/tiangou.jpg",
+    "category": "China",
+    "mythology": "China",
+    "rarity": "Épica",
+    "habitat": "Cielos",
+    "power": "Devorar astros",
+    "description": "Perro celestial asociado a eclipses solares y lunares."
+  },
+  {
+    "id": 95,
+    "name": "Yinglong",
+    "image": "/static/images/yinglong.jpg",
+    "category": "China",
+    "mythology": "China",
+    "rarity": "Divina",
+    "habitat": "Cielos",
+    "power": "Control de lluvia y viento",
+    "description": "Dragón alado considerado uno de los más poderosos."
+  },
+  {
+    "id": 96,
+    "name": "Luduan",
+    "image": "/static/images/luduan.jpg",
+    "category": "China",
+    "mythology": "China",
+    "rarity": "Rara",
+    "habitat": "Palacios Imperiales",
+    "power": "Percepción de la verdad",
+    "description": "Criatura sabia capaz de comprender todos los idiomas."
+  },
+  {
+    "id": 97,
+    "name": "Feilian",
+    "image": "/static/images/feilian.jpg",
+    "category": "China",
+    "mythology": "China",
+    "rarity": "Épica",
+    "habitat": "Tormentas",
+    "power": "Control del viento",
+    "description": "Bestia asociada con huracanes y tempestades."
+  },
+  {
+    "id": 98,
+    "name": "Gui",
+    "image": "/static/images/gui.jpg",
+    "category": "China",
+    "mythology": "China",
+    "rarity": "Rara",
+    "habitat": "Lugares Encantados",
+    "power": "Manifestación espiritual",
+    "description": "Espíritu o fantasma perteneciente al folclore chino."
+  },
+  {
+    "id": 99,
+    "name": "Bifang",
+    "image": "/static/images/bifang.jpg",
+    "category": "China",
+    "mythology": "China",
+    "rarity": "Rara",
+    "habitat": "Bosques",
+    "power": "Manipulación del fuego",
+    "description": "Ave de una sola pata asociada con incendios y presagios."
+  },
+  {
+    "id": 100,
+    "name": "Ao",
+    "image": "/static/images/ao.jpg",
+    "category": "China",
+    "mythology": "China",
+    "rarity": "Legendaria",
+    "habitat": "Océanos",
+    "power": "Soporte del mundo",
+    "description": "Tortuga gigante relacionada con la estabilidad del cosmos."
+  }
+]

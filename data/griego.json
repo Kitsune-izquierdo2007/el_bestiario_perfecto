@@ -1,0 +1,203 @@
+[
+  {
+    "id": 1,
+    "name": "Minotauro",
+    "image": "/static/images/minotauro.jpg",
+    "mythology": "Griega",
+    "rarity": "Legendaria",
+    "habitat": "Laberinto de Creta",
+    "power": "Fuerza colosal",
+    "description": "Monstruo con cuerpo humano y cabeza de toro que habitaba el legendario laberinto construido por Dédalo."
+  },
+  {
+    "id": 2,
+    "name": "Medusa",
+    "image": "/static/images/medusa.jpg",
+    "mythology": "Griega",
+    "rarity": "Legendaria",
+    "habitat": "Templos abandonados",
+    "power": "Petrificación",
+    "description": "La más famosa de las gorgonas, capaz de convertir en piedra a cualquiera que la mire directamente."
+  },
+  {
+    "id": 3,
+    "name": "Quimera",
+    "image": "/static/images/quimera.jpg",
+    "mythology": "Griega",
+    "rarity": "Legendaria",
+    "habitat": "Montañas",
+    "power": "Aliento de fuego",
+    "description": "Criatura compuesta por león, cabra y serpiente, capaz de escupir llamas."
+  },
+  {
+    "id": 4,
+    "name": "Hidra de Lerna",
+    "image": "/static/images/hidra.jpg",
+    "mythology": "Griega",
+    "rarity": "Legendaria",
+    "habitat": "Pantanos",
+    "power": "Regeneración",
+    "description": "Serpiente acuática de múltiples cabezas que regeneraba las que perdía."
+  },
+  {
+    "id": 5,
+    "name": "Cerbero",
+    "image": "/static/images/cerbero.jpg",
+    "mythology": "Griega",
+    "rarity": "Legendaria",
+    "habitat": "Inframundo",
+    "power": "Guardia eterna",
+    "description": "Perro de tres cabezas encargado de custodiar la entrada al reino de Hades."
+  },
+  {
+    "id": 6,
+    "name": "Pegaso",
+    "image": "/static/images/pegaso.jpg",
+    "mythology": "Griega",
+    "rarity": "Épica",
+    "habitat": "Cielos",
+    "power": "Vuelo celestial",
+    "description": "Caballo alado nacido de la sangre de Medusa."
+  },
+  {
+    "id": 7,
+    "name": "Esfinge",
+    "image": "/static/images/esfinge.jpg",
+    "mythology": "Griega",
+    "rarity": "Épica",
+    "habitat": "Desiertos y ruinas",
+    "power": "Acertijos mortales",
+    "description": "Criatura con cuerpo de león y rostro humano que desafiaba a los viajeros."
+  },
+  {
+    "id": 8,
+    "name": "Arpía",
+    "image": "/static/images/arpia.jpg",
+    "mythology": "Griega",
+    "rarity": "Rara",
+    "habitat": "Acantilados",
+    "power": "Velocidad aérea",
+    "description": "Ser alado con cuerpo de ave y rostro femenino."
+  },
+  {
+    "id": 9,
+    "name": "Cíclope",
+    "image": "/static/images/ciclope.jpg",
+    "mythology": "Griega",
+    "rarity": "Épica",
+    "habitat": "Cuevas",
+    "power": "Fuerza gigantesca",
+    "description": "Gigante de un solo ojo famoso por su enorme fuerza."
+  },
+  {
+    "id": 10,
+    "name": "León de Nemea",
+    "image": "/static/images/leon_nemea.jpg",
+    "mythology": "Griega",
+    "rarity": "Legendaria",
+    "habitat": "Bosques",
+    "power": "Piel impenetrable",
+    "description": "León monstruoso cuya piel no podía ser perforada por armas comunes."
+  },
+  {
+    "id": 11,
+    "name": "Talos",
+    "image": "/static/images/talos.jpg",
+    "mythology": "Griega",
+    "rarity": "Legendaria",
+    "habitat": "Costas de Creta",
+    "power": "Guardián de bronce",
+    "description": "Gigante de bronce creado para proteger la isla de Creta de invasores."
+  },
+  {
+    "id": 12,
+    "name": "Ladón",
+    "image": "/static/images/ladon.jpg",
+    "mythology": "Griega",
+    "rarity": "Legendaria",
+    "habitat": "Jardín de las Hespérides",
+    "power": "Vigilancia eterna",
+    "description": "Dragón de múltiples cabezas encargado de custodiar las manzanas doradas."
+  },
+  {
+    "id": 13,
+    "name": "Eurínomo",
+    "image": "/static/images/eurinomo.jpg",
+    "mythology": "Griega",
+    "rarity": "Épica",
+    "habitat": "Inframundo",
+    "power": "Devorador de cadáveres",
+    "description": "Demonio infernal que se alimentaba de los cuerpos de los muertos."
+  },
+  {
+    "id": 14,
+    "name": "Empusa",
+    "image": "/static/images/empusa.jpg",
+    "mythology": "Griega",
+    "rarity": "Rara",
+    "habitat": "Caminos nocturnos",
+    "power": "Cambio de forma",
+    "description": "Entidad capaz de adoptar diversas apariencias para engañar a los viajeros."
+  },
+  {
+    "id": 15,
+    "name": "Mantícora",
+    "image": "/static/images/manticora.jpg",
+    "mythology": "Griega",
+    "rarity": "Épica",
+    "habitat": "Montañas remotas",
+    "power": "Cola venenosa",
+    "description": "Monstruo con cuerpo de león, rostro humano y cola venenosa."
+  },
+  {
+    "id": 16,
+    "name": "Ceto",
+    "image": "/static/images/ceto.jpg",
+    "mythology": "Griega",
+    "rarity": "Divina",
+    "habitat": "Océano profundo",
+    "power": "Control de monstruos marinos",
+    "description": "Antigua diosa marina asociada con monstruos y criaturas abisales."
+  },
+  {
+    "id": 17,
+    "name": "Caribdis",
+    "image": "/static/images/caribdis.jpg",
+    "mythology": "Griega",
+    "rarity": "Legendaria",
+    "habitat": "Estrechos marinos",
+    "power": "Remolinos gigantes",
+    "description": "Criatura marina que generaba enormes remolinos capaces de hundir barcos."
+  },
+  {
+    "id": 18,
+    "name": "Escila",
+    "image": "/static/images/escila.jpg",
+    "mythology": "Griega",
+    "rarity": "Legendaria",
+    "habitat": "Acantilados marinos",
+    "power": "Múltiples cabezas",
+    "description": "Monstruo marino que acechaba a los navegantes desde las rocas."
+  },
+  {
+    "id": 19,
+    "name": "Hipocampo",
+    "image": "/static/images/hipocampo.jpg",
+    "mythology": "Griega",
+    "rarity": "Épica",
+    "habitat": "Océanos",
+    "power": "Velocidad acuática",
+    "description": "Caballo marino mitológico utilizado como montura por los dioses del mar."
+  },
+  {
+    "id": 20,
+    "name": "Toro de Creta",
+    "image": "/static/images/toro_creta.jpg",
+    "mythology": "Griega",
+    "rarity": "Legendaria",
+    "habitat": "Creta",
+    "power": "Furia descontrolada",
+    "description": "Toro sagrado enviado por Poseidón que sembró el caos en la isla de Creta."
+  }
+]
+

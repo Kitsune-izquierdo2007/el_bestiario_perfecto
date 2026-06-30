@@ -1,0 +1,113 @@
+```html
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>{{ creature.name }}</title>
+
+<link rel="stylesheet"
+href="{{ url_for('static', filename='style.css') }}">
+
+</head>
+
+<body>
+
+<header>
+
+<h1>📖 Grimorio de Criaturas</h1>
+
+</header>
+
+<div class="container">
+
+<div class="creature-page">
+
+<img src="{{ creature.image }}"
+alt="{{ creature.name }}">
+
+<h2>{{ creature.name }}</h2>
+
+<div class="info">
+
+<div class="info-box">
+<h3>🏛 Mitología</h3>
+<p>{{ creature.mythology }}</p>
+</div>
+
+<div class="info-box">
+<h3>⭐ Rareza</h3>
+<p>{{ creature.rarity }}</p>
+</div>
+
+<div class="info-box">
+<h3>🌍 Hábitat</h3>
+<p>{{ creature.habitat }}</p>
+</div>
+
+<div class="info-box">
+<h3>⚡ Poder</h3>
+<p>{{ creature.power }}</p>
+</div>
+<p>
+
+{{ creature.description }}
+
+</p>
+
+</div>
+
+<div class="stats">
+
+<h3>⚔ Estadísticas</h3>
+
+<div class="bar">
+
+<span>Fuerza</span>
+
+<div class="fill strength"></div>
+
+</div>
+
+<div class="bar">
+
+<span>Magia</span>
+
+<div class="fill magic"></div>
+
+</div>
+
+<div class="bar">
+
+<span>Velocidad</span>
+
+<div class="fill speed"></div>
+
+</div>
+
+</div>
+
+<br>
+
+<center>
+
+<a href="/"
+class="back-button">
+
+← Volver al Bestiario
+
+</a>
+
+</center>
+
+</div>
+
+</div>
+
+</body>
+
+</html>
+
